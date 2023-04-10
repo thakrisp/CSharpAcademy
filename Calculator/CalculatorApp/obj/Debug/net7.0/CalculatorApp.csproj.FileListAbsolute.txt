@@ -1,0 +1,15 @@
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\Calculator\CalculatorApp\bin\Debug\net7.0\CalculatorApp.exe
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\Calculator\CalculatorApp\bin\Debug\net7.0\CalculatorApp.deps.json
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\Calculator\CalculatorApp\bin\Debug\net7.0\CalculatorApp.runtimeconfig.json
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\Calculator\CalculatorApp\bin\Debug\net7.0\CalculatorApp.dll
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\Calculator\CalculatorApp\bin\Debug\net7.0\CalculatorApp.pdb
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\Calculator\CalculatorApp\obj\Debug\net7.0\CalculatorApp.csproj.AssemblyReference.cache
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\Calculator\CalculatorApp\obj\Debug\net7.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\Calculator\CalculatorApp\obj\Debug\net7.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\Calculator\CalculatorApp\obj\Debug\net7.0\CalculatorApp.AssemblyInfo.cs
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\Calculator\CalculatorApp\obj\Debug\net7.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\Calculator\CalculatorApp\obj\Debug\net7.0\CalculatorApp.dll
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\Calculator\CalculatorApp\obj\Debug\net7.0\refint\CalculatorApp.dll
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\Calculator\CalculatorApp\obj\Debug\net7.0\CalculatorApp.pdb
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\Calculator\CalculatorApp\obj\Debug\net7.0\CalculatorApp.genruntimeconfig.cache
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\Calculator\CalculatorApp\obj\Debug\net7.0\ref\CalculatorApp.dll
