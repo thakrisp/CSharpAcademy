@@ -1,0 +1,15 @@
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\MathGame\MathGame\bin\Debug\net7.0\MathGame.exe
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\MathGame\MathGame\bin\Debug\net7.0\MathGame.deps.json
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\MathGame\MathGame\bin\Debug\net7.0\MathGame.runtimeconfig.json
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\MathGame\MathGame\bin\Debug\net7.0\MathGame.dll
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\MathGame\MathGame\bin\Debug\net7.0\MathGame.pdb
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\MathGame\MathGame\obj\Debug\net7.0\MathGame.csproj.AssemblyReference.cache
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\MathGame\MathGame\obj\Debug\net7.0\MathGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\MathGame\MathGame\obj\Debug\net7.0\MathGame.AssemblyInfoInputs.cache
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\MathGame\MathGame\obj\Debug\net7.0\MathGame.AssemblyInfo.cs
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\MathGame\MathGame\obj\Debug\net7.0\MathGame.csproj.CoreCompileInputs.cache
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\MathGame\MathGame\obj\Debug\net7.0\MathGame.dll
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\MathGame\MathGame\obj\Debug\net7.0\refint\MathGame.dll
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\MathGame\MathGame\obj\Debug\net7.0\MathGame.pdb
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\MathGame\MathGame\obj\Debug\net7.0\MathGame.genruntimeconfig.cache
+C:\Users\ryanc\Documents\Programing\Projects\CSharp\Academy\MathGame\MathGame\obj\Debug\net7.0\ref\MathGame.dll
